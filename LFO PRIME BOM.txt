@@ -1,0 +1,44 @@
+Part   Value         Device           Package            Description                                        
+ 
+
+C1     .1   25V         C-US025-025X050  C025-025X050       CAPACITOR, American symbol                                                                                              
+C2     .1     25V       C-US025-025X050  C025-025X050       CAPACITOR, American symbol                                                                                              
+C3     22uF     25V     CPOL-USE5-4      E5-4               POLARIZED CAPACITOR, American symbol                                                                                    
+C4     1uF        25V   CPOL-USE5-4      E5-4               POLARIZED CAPACITOR, American symbol                                                                                    
+C5     .1        25V    C-US025-025X050  C025-025X050       CAPACITOR, American symbol                                                                                              
+C6     .1         25V    C-US025-025X050  C025-025X050       CAPACITOR, American symbol                                                                                              
+FREQ   A25K          9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style   .  One of these works.   
+https://www.taydaelectronics.com/25k-ohm-linear-taper-potentiometer-round-shaft-pcb-9mm.html                                                                
+ 
+IC1    TL082P        TL082P           DIL08              OP AMP                                              
+IC2    TL082P        TL082P           DIL08              OP  AMP
+LED1                 LED3MM           LED3MM             LED       (optional, any 3mm LED will work)                                                                                                              
+OFFSET 100K          3362H            3362H              3362 Series  single turn 100K trim                                                                                                     
+OUT1   THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                
+OUT2   THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                
+OUT3   THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths      
+resistors are 5% 1/4 watt through hole.                                                                          
+R1     1K            R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R2     180ohm        R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R3     1K            R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R4     1K            R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R5     200K 1%       R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R6     50K           R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R7     50K           R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R8     1K            R-US_0204/7      0204/7             RESISTOR, American symbol        
+Trimmer are bournes or bournes clones.                                                                                       
+SHAPE  500           3362H            3362H              3362 Series  500ohm single turn trimmer                                                                                                       
+SPEED  10K           3362H            3362H              3362 Series       10K single turn trimmer     
+OFFSET 100K   3362H                                         3362 Series  100K single turn trimmer                                                                                                  
+
+================
+Switches: make sure to get ones that fit the PCB layout.
+You will need 2x submini SPDT switches and 1x DPDT.
+Here is what I used (current 9-13-21)
+ 
+BIAS                 SPDTPADS         SPDT               TOGGLE SWITCH                                                                                                                                                                                                         
+(and)
+WAVE                 SPDTPADS         SPDT               TOGGLE SWITCH      https://m.made-in-china.com/product/for-Audio-Products-Spdt-Toggle-Switch-Latching-IP67-PCB-779020062.html       (or)
+https://lovemyswitches.com/taiway-spdt-on-on-switch-pcb-long-shaft-non-threaded-bushing/                                                                                                 
+RANGE                DPDT-WIDE        DPDT-WIDE    TAIWAY T2 submini DPDT pcb switch ; something like this.    
+https://lovemyswitches.com/taiway-dpdt-on-on-switch-pcb-mount-short-shaft/                                                                                                                        
