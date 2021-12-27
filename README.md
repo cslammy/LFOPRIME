@@ -1,5 +1,5 @@
 # LFOPRIME
-Basic but useful Low Frequency Oscillator
+Low Frequency Oscillator without a bunch of useless frills
 
 For more information about this project, please see this blog post:
 http://audiodiwhy.blogspot.com/2021/09/lfo-prime-reverse-engineering-my-own.html
